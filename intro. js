@@ -2,6 +2,6 @@ const name = "Sylvian" ;
 const age = 25;
 const favproglang = "Js" ;
 
-console.log ( "Name : Sylvian");
-console.log ( "Age : 25");
-console.log ( "Favproglang : Javascript");
+console.log ( "Name:Sylvian");
+console.log ( "Age:25");
+console.log ( "Favproglang:Javascript");
